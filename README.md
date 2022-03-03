@@ -9,3 +9,6 @@ Python's classes and inheritance make it easy to express a program's intended be
 I want to record the grades of a set of students whose names aren't known in advance. I can define a class to store the names in a dictionary instead of using a predefined attribute for each student.
 
 Python's built-in dictionary type is wonderful for maintaining dynamic internal state over the lifetime of an object. By dynamic, I mean situations in which you need to do bookkeeping for an unexpected set of identifiers.
+
+
+# interfaces
